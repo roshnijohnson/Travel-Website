@@ -1,0 +1,115 @@
+.body
+{
+    background-color: aliceblue;
+}
+
+.navbar-1
+{background-color:#1E3551;
+}
+
+
+
+
+.card-1
+{
+    width: 100%;
+    border-color:#38668E;
+
+}
+
+.card-2
+{
+    max-width: 100%;
+}
+
+
+.card-header
+{
+    background-color:#38668E;
+}
+
+
+.btn-1
+{
+    background-color:#1E3551;
+}
+
+.btn-2
+{
+    background-color:#38668E;
+}
+
+
+
+h4
+{
+    color:white;
+}
+
+#one
+{
+    color:white;
+}
+
+#two
+{
+    text-align:center; color:white;
+}
+
+#three
+{
+    color:white;
+}
+.nav-1
+{
+    text-decoration: none;
+}
+
+span 
+{
+    color:blue;
+}
+
+.card-body-1
+{
+    background-color:#1E3551;
+    text-align: center;
+    width: 100%;
+    height: 30px;
+    
+}
+
+.btn-group
+{
+    width: 100%;
+}
+
+.custom-img
+{
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+
+.btn-group-1
+{
+ flex-wrap:wrap ;
+}
+.custom
+{
+    text-decoration: none;
+    color: white;
+}
+
+.custom1
+{
+    border-color: blue;
+}
+
+
+
+#title
+{
+    font-family: 'Lobster', cursive;
+}
+
